@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/thaonhu/StudioProjects/LookandTell/app/libs/mp_multi_hand_aar.aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2f012d862e16711905cae6be1fb8b771/transformed/jetified-mp_multi_hand_aar/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f012d862e16711905cae6be1fb8b771/transformed/jetified-mp_multi_hand_aar/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

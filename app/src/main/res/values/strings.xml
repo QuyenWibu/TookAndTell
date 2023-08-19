@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Look &amp; Tell</string>
+
+    <!-- Bottom nav !-->
+    <string name="home">Home</string>
+    <string name="dichngu">Sign To Text</string>
+    <string name="chuyenngu">Voice To Text</string>
+    <string name="tudien">Dictionary</string>
+
+    <string name="hint1">Translation</string>
+    <string name="hint2">Transferring</string>
+    <string name="authors">*Made by Ngo Minh Quang and Mai Khoi Nguyen</string>
+    <string name="searching">What are you looking for?</string>
+
+    <string name="startRecord">Start Recording</string>
+    <string name="stopRecord">Stop Recording</string>
+    <string name="audioStart">Star Recording</string>
+    <string name="audioStop">Stop Recording</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.eddydn:videoplayer:1.10@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8bf3c2f6090bbb90bde2f5d2e8ad6749/transformed/jetified-videoplayer-1.10/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8bf3c2f6090bbb90bde2f5d2e8ad6749/transformed/jetified-videoplayer-1.10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8bf3c2f6090bbb90bde2f5d2e8ad6749/transformed/jetified-videoplayer-1.10/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.eddydn/videoplayer/1.10/1194bd1f885e016316689544c2bab87fac93b6f/videoplayer-1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
